@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @inwook04
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on software develop.
 - 📫 The way to contact me is jryha6050@gmail.com , this is my Google email.
 
 <!---
